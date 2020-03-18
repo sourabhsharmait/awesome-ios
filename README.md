@@ -240,6 +240,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 - [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
+- [Bugsee](https://www.bugsee.com) - See video, network and logs that led to bugs and crashes in live apps. No need to reproduce intermittent bugs. With Bugsee, all the crucial data is always there.
 
 ## App Routing
 
